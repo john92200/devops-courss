@@ -1,0 +1,5 @@
+mkdir devops
+git init
+git status
+
+git add
