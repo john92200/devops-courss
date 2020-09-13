@@ -3,3 +3,10 @@ git init
 git status
 
 git add
+git config --global user.name "john"
+git config --global user.email "jsoltana@hotmail.com"
+git commit -m "custom message"
+git remote add origin "https://github.com/john92200/devops-courss.git"
+git push origin master
+git clone "repositery"  /copy 
+git pull origin master  / update
